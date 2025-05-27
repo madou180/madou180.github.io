@@ -42,7 +42,7 @@ var urls=[
 	'envxuau.xyz',
 ];
                                                                                                                   
-var JumpPage="https://91sos.com";
+var JumpPage="https://18mod.com";
 
 var newestUrls = [];
 
@@ -52,12 +52,12 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91websp.github.io',
-	'https://91vx1.pages.dev',
-	'https://91vx.netlify.app',
+	'https://madou18.github.io',
+	'https://madou18.pages.dev',
+	'https://madou18.netlify.app',
 ];
 var foreverUrls = [
-    'https://91si.com',JumpPage
+    'https://18madou.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
