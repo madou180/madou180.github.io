@@ -52,8 +52,8 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://madou18.github.io',
-	'https://madou18.pages.dev',
+	'https://madou180.github.io',
+	'https://madou180.pages.dev',
 	'https://madou18.netlify.app',
 ];
 var foreverUrls = [
