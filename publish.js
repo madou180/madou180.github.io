@@ -132,7 +132,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91视频'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问麻豆传媒'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
