@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'envxuau.xyz',
-	'envxuau.xyz',
-	'envxuau.xyz',
+	'18madou8.com',
+	'18madou7.com',
+	'18madou6.com',
 ];
                                                                                                                   
-var JumpPage="https://18mod.com";
+var JumpPage="https://18mod8.com";
 
 var newestUrls = [];
 
