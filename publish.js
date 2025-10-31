@@ -42,7 +42,7 @@ var urls=[
 	'18madou6.com',
 ];
                                                                                                                   
-var JumpPage="https://18mod8.com";
+var JumpPage="https://guochanav1.com";
 
 var newestUrls = [];
 
@@ -57,7 +57,7 @@ var otherUrls = [
 	'https://madou.netlify.app/',
 ];
 var foreverUrls = [
-    'https://18madou.com',JumpPage
+    'https://gcav1.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
