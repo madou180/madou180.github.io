@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'18madou8.com',
-	'18madou7.com',
-	'18madou6.com',
+	'sxrjquhw.cc',
+	'hmnongxh.cc ',
+	'slebazq.cc',
 ];
                                                                                                                   
-var JumpPage="https://guochanav1.com";
+var JumpPage="https://18mod25.com";
 
 var newestUrls = [];
 
