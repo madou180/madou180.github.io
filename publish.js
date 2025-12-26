@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
+	'athtrav.xyz',
 	'uvrqpots.cc',
 	'jklxxwz.com',
-	'ftwgettp.cc',
 ];
                                                                                                                   
-var JumpPage="https://18mod29.com";
+var JumpPage="https://18mod30.com";
 
 var newestUrls = [];
 
