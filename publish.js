@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
+	'brzdsvz.xyz',
 	'llsluba.cc',
 	'xnsogxa.cc',
-	'hokldngt.xyz',
 ];
                                                                                                                   
-var JumpPage="https://gcav2.com";
+var JumpPage="https://gcav3.com";
 
 var newestUrls = [];
 
